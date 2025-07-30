@@ -128,20 +128,6 @@
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-  <img src="https://i.imgur.com/homepage-screenshot.png" alt="Homepage" width="45%" style="margin: 10px;">
-  <img src="https://i.imgur.com/race-mode-screenshot.png" alt="Race Mode" width="45%" style="margin: 10px;">
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/sorting-vis-screenshot.png" alt="Sorting Visualization" width="45%" style="margin: 10px;">
-  <img src="https://i.imgur.com/graph-vis-screenshot.png" alt="Graph Visualization" width="45%" style="margin: 10px;">
-</div>
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
