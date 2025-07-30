@@ -12,7 +12,7 @@
   
   <p>Master complex DSA concepts through beautiful, interactive visualizations and real-time algorithm racing!</p>
 
-  **🌐 [Live Demo](https://dsa-visualizer-bbjm.vercel.app/) | 📚 [Documentation](#-features) | 🐛 [Report Bug](https://github.com/nikhilsaini2/DSA-VISUALIZER/issues)**
+  **🌐 [Live Demo](https://dsa-visualizer-sr27.vercel.app/) | 📚 [Documentation](#-features) | 🐛 [Report Bug](https://github.com/nikhilsaini2/DSA-VISUALIZER/issues)**
 
 </div>
 
@@ -21,7 +21,7 @@
 ## 📸 Project Preview
 
 <div align="center">
-  <img src="assets/dsa-visualizer-preview.png" alt="DSA Visualizer - Master Data Structures & Algorithms" width="90%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);">
+  <img src="src/assets/dsa-visualizer-preview.png" alt="DSA Visualizer - Master Data Structures & Algorithms" width="90%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);">
   <br><br>
   <p><em>🎯 Interactive learning with beautiful visualizations and real-time Race Mode!</em></p>
   <p><strong>✨ Features: Sorting Demo, Race Mode, Interactive Controls, Dark Theme</strong></p>
